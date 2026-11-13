@@ -16,7 +16,7 @@ Choose your server, connect, and keep your membership in one place.
 
 | Platform | Latest version | Download |
 | --- | --- | --- |
-| Android | 3.0.63 | [Download for Android](https://github.com/bombholaaa/lagan-downloads/releases/download/android-3.0.63/Lagan-3.0.63.apk) |
+| Android | 3.0.65 | [Download for Android](https://github.com/bombholaaa/lagan-downloads/releases/download/android-3.0.65/Lagan-3.0.65.apk) |
 | Windows | 0.1.26 | [Download for Windows](https://github.com/bombholaaa/lagan-downloads/releases/download/windows-0.1.26/Lagan-Setup-0.1.26.exe) |
 
 Visit [lagan.bombhola.com](https://lagan.bombhola.com/) to explore membership plans and choose the app for your device.
